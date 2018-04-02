@@ -1,0 +1,7 @@
+main=false
+gui=false
+container-name = secondaire
+#host = 172.22.62.14
+host = 192.168.1.82
+port=1098
+local-port=1098
